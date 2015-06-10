@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2013-03-15
+img: bukkit.png
+alt: image-alt
+project-date: January 2011 - June 2013
+client: N/A
+category: Java Development
+description: My first forray into the world of Java and Social Coding. Bukkit was an open source modded server for the popular video game Minecraft. It provided a more stable serverside and an extendable plugin API. I maintained a popular auction plugin called [iAuction](https://github.com/rob4001/iauction) 
+
+---
